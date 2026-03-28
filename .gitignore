@@ -1,0 +1,65 @@
+# ===== Keil C51 构建产物 =====
+Listings/
+Objects/
+*.LST
+*.lst
+*.OBJ
+*.obj
+*.HEX
+*.hex
+*.MAP
+*.map
+*.LNP
+*.lnp
+*.BAK
+*.bak
+*.SBR
+*.sbr
+*.CRF
+*.crf
+*.D
+*.d
+*.__i
+*.M51
+*.m51
+*.plg
+*.axf
+*.elf
+# Keil C51 无后缀可执行输出（通过常见项目名通配，无法精确）
+
+# ===== Keil 用户状态文件 =====
+*.uvgui
+*.uvgui.*
+*.uvguix
+*.uvguix.*
+*.uvopt
+*.uvoptx
+
+# ===== 不推送的目录（模板练习/测试/他人代码）=====
+frame_01/
+frame_project_02/
+project_01/
+project_02/
+test_01/
+test_02/
+test_project_02/
+矩阵键盘_test_03/
+数码管test/
+模板练习/
+范例模板/
+大模板 V5/
+6.8模板搭建练习/
+6.13赛前模板搭建练习/
+6.14考前模板搭建（最后一次）/
+【旧模板】14 第十四届省赛（第一次）满分_学员烟雨～梦兮/
+【旧模板】16 第十六届模拟II满分_学员烟雨～梦兮/
+
+# ===== 压缩包 =====
+*.zip
+*.rar
+*.7z
+
+# ===== 操作系统 =====
+Thumbs.db
+.DS_Store
+desktop.ini
